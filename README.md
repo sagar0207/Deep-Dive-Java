@@ -20,4 +20,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 7) [Merge Sort:Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting).
 8) [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/).
 9) [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/).
-10 []
+10 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/).
