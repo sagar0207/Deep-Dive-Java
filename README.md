@@ -22,4 +22,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 9) [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/).
 10) [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/).
 11) [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/).
-12) [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/).
+12) [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/).
