@@ -21,3 +21,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 8) [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/).
 9) [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/).
 10) [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/).
+11) [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/).
