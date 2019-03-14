@@ -28,3 +28,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 15) [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/).
 16) [Game of Life](https://leetcode.com/problems/game-of-life/).
 17) [LRU cache](https://leetcode.com/problems/lru-cache/).
+18) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/).
