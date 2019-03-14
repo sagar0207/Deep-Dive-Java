@@ -29,3 +29,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 16) [Game of Life](https://leetcode.com/problems/game-of-life/).
 17) [LRU cache](https://leetcode.com/problems/lru-cache/).
 18) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/).
+19) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/).
