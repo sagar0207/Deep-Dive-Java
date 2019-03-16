@@ -37,3 +37,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 24) [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/).
 25) [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/).
 26) [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/).
+27) [Online Stock Span](https://leetcode.com/problems/online-stock-span/).
