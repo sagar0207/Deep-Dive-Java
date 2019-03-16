@@ -36,3 +36,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 23) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/).
 24) [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/).
 25) [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/).
+26) [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/).
