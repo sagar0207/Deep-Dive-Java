@@ -35,3 +35,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 22) [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/).
 23) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/).
 24) [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/).
+25) [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/).
