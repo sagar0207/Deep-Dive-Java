@@ -40,3 +40,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 27) [Online Stock Span](https://leetcode.com/problems/online-stock-span/).
 28) [Course Schedule](https://leetcode.com/problems/course-schedule/).
 29) [Decode String](https://leetcode.com/problems/decode-string/).
+30) [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/).
