@@ -42,3 +42,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 29) [Decode String](https://leetcode.com/problems/decode-string/).
 30) [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/).
 31) [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/).
+32) [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/).
