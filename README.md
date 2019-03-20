@@ -39,3 +39,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 26) [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/).
 27) [Online Stock Span](https://leetcode.com/problems/online-stock-span/).
 28) [Course Schedule](https://leetcode.com/problems/course-schedule/).
+29) [Decode String](https://leetcode.com/problems/decode-string/).
