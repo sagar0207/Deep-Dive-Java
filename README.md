@@ -49,3 +49,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 36) [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/).
 37) [Jump Game](https://leetcode.com/problems/jump-game/).
 38) [Jump Game II](https://leetcode.com/problems/jump-game-ii/).
+39) [Walls and gates](https://leetcode.com/problems/walls-and-gates/).
