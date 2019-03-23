@@ -46,3 +46,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 33) [Partition List](https://leetcode.com/problems/partition-list/).
 34) [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/).
 35) [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/). 
+36) [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/).
