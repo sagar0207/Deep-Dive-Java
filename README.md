@@ -44,3 +44,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 31) [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/).
 32) [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/).
 33) [Partition List](https://leetcode.com/problems/partition-list/).
+34) [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/).
