@@ -52,3 +52,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 39) [Walls and gates](https://leetcode.com/problems/walls-and-gates/).
 40) [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/).
 41) [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/).
+42) [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/).
