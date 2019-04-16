@@ -58,3 +58,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 45) [Delete and earn](https://leetcode.com/problems/delete-and-earn/).
 46) [Design Twitter](https://leetcode.com/problems/design-twitter/).
 47) [Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/).
+48) [Friend Circles](https://leetcode.com/problems/friend-circles/).
