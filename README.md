@@ -59,3 +59,4 @@ Add runtime of accepted code in description while submitting/updating the soluti
 46) [Design Twitter](https://leetcode.com/problems/design-twitter/).
 47) [Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/).
 48) [Friend Circles](https://leetcode.com/problems/friend-circles/).
+49) [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/).
