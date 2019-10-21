@@ -1,0 +1,141 @@
+// Application of Union Find
+
+class Solution {
+    
+    int count;
+    int[] parent;
+    
+    public int countComponents(int n, int[][] edges) {
+        
+        if (n == 0) {
+            return 0;
+        } else if (edges == null || edges.length == 0) {
+            return n;
+        }
+        
+        count = n;
+        parent = new int[n];
+        
+        for(int i = 0; i<n; i++){
+            parent[i] = i;
+        }
+        
+        for(int[] edge : edges){
+            int x = edge[0];
+            int y = edge[1];
+            
+            if(find(x)!=find(y)){
+                union(x,y);
+            }
+        }
+        
+        return count;
+    }
+    
+    private int find(int x){
+        if(parent[x] == x)
+            return x;
+        return parent[x] = find(parent[x]);
+    }
+    
+    private void union(int x, int y){
+        int parentA = parent[x];
+        int parentB = parent[y];
+        
+        parent[parentB] = parentA;
+        count--;
+    }
+}
+
+// Solution solved using bfs approach
+
+class Solution {
+    boolean[] visited;
+    public int countComponents(int n, int[][] edges) {
+        
+        if(n != 0 && edges.length == 0){
+            return n;
+        }
+        
+        if(edges.length == 0 || edges == null || n == 0){
+            return 0;
+        }
+        
+        visited = new boolean[n];
+        Arrays.fill(visited, Boolean.FALSE);
+        Map<Integer, Set<Integer>> map = new HashMap<>();
+        //ArrayList<Integer> keys = new ArrayList<>();
+        int count = 0;
+        
+        
+        
+        for(int i = 0; i < edges.length; i++){
+            
+            Set<Integer> neighbors = map.get(edges[i][0]);
+            if(neighbors == null || neighbors.size() == 0){
+                neighbors = new HashSet<>();
+                map.put(edges[i][0], neighbors);
+            }
+            neighbors.add(edges[i][1]);
+            
+            Set<Integer> neighbors2 = map.get(edges[i][1]);
+            if(neighbors2 == null || neighbors2.size() == 0){
+                neighbors2 = new HashSet<>();
+                map.put(edges[i][1], neighbors2);
+            }
+            neighbors2.add(edges[i][0]);
+            
+            // if(!map.containsKey(edges[i][0])){
+            //     ArrayList<Integer> neighbors = new ArrayList<Integer>();
+            //     neighbors.add(edges[i][1]);
+            //     map.put(edges[i][0], neighbors);
+            // }
+            // else{
+            //     ArrayList<Integer> neighbors = map.get(edges[i][0]);
+            //     neighbors.add(edges[i][1]);
+            //     map.put(edges[i][0], neighbors);
+            //     //System.out.println(map.get(edges[i][0]));
+            // }
+            // //keys.add(edges[i][0]);
+        }
+               
+        for(int i = 0; i < n; i++){
+             if(visited[i] == false){
+                 if(map.containsKey(i)){
+                     helper(i, map, visited);
+                     count++;
+                     //System.out.println(i);
+                 }
+             }
+        }
+        
+        for(int i = 0; i<n; i++){
+            if(visited[i] == false){
+                count++;
+            }
+        }
+        
+        
+        return count;
+    }
+    
+    public void helper(int vertex, Map<Integer, Set<Integer>> map, boolean[] visited){
+        Queue<Integer> q = new LinkedList<>();
+        q.add(vertex);
+        while(!q.isEmpty()){
+            int x = q.poll();
+            //System.out.println(x);
+            visited[x] = true;
+            if(map.containsKey(x)){
+                Set<Integer> list = map.get(x);
+                if(list.size()!=0 || list != null){
+                    for(int y: list){
+                        if(visited[y] == false)
+                            q.add(y);
+                    }
+                }
+            }
+        }
+    }
+}
+
