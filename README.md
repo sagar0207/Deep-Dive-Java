@@ -8,7 +8,7 @@ These implementations are pure logic. There are many implementations of question
 Some of the solutions may contains the function only.
 
 ## Guidelines 
-Add runtime of accepted code in description while submitting/updating the solution file.
+Add approach, time complexity and space complexity of accepted code in description while submitting/updating the solution file.
 
 ## Questions
 1) [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/).
